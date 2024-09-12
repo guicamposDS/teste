@@ -1,0 +1,265 @@
+guilhermecampos@digitalsolvers.com
+Gc37338912!
+
+-------------------
+
+ftp.rojocomunicacao.com.br
+ 
+adenilson@rojocomunicacao.com.br
+ 
+rojoftp54A$
+ 
+hostgator
+ 
+e#Izh#d5xW?O
+ 
+guilherme@rojopublicidade.com
+
+--
+Webevent
+
+PHPMYADMIN
+https://mysql-01.webevent.com.br/phpmyadmin/
+Tela de Autorização
+Usuário: digitalsolvers
+Se ba: 2^~s)4GLz5@56gA
+Acesso
+Usuário: root
+Senha: QyqahTc0=4RZM
+https://44.197.136.252:QyqahTc0=4RZM@
+
+--
+
+IBD MIRROR
+40.77.65.45:8888 - FASTPANEL
+login - guilherme
+senha - Solas776$#
+https://www.ibdmirror.com.br/new-site/ibd-mirror/
+
+Banco -
+https://40.77.65.45:8888/phpmyadmin/index.php?route=/&route=%2F&db=db_ibd_mirror_wp
+
+usuário - db_ibd_mirr_usr
+senha - LATdJkj4PZqRfoiW
+
+--
+
+Acessos banco padcev / viveradium e outros
+host: 172.177.83.187 (Workbench) 
+
+usuario: padcev_com_b
+usuario: viveradium_c
+usuario: adiumsaude_c
+
+senha: Burro56Horse57$&**
+
+--
+
+https://adiumsaude.com.br/diario-miccional/menu-diario-miccional/
+https://adiumsaude.com.br/diario-miccional/area-usuario-diario/
+https://adiumsaude.com.br/diario-miccional/historico-diario-miccional/
+https://adiumsaude.com.br/diario-miccional/formulario-diario-miccional/
+
+filezilla adiumsaude
+host: 172.177.83.187
+usuario: vm-eastus2-linux-zodiac-001
+senha: Banana56$Pera#
+
+--
+
+Nova api CRM:
+https://fa-eastus2-solvers-solversapi.azurewebsites.net/api/v1/ValidaCrm?crm=185660&uf=sp&status=1&token=1112d5aa-5586-4a4d-8413-08c2257e5989
+
+--
+
+Buscador produção:
+https://apoiopaciente.com.br/
+
+banco  de dados:
+https://172.177.51.189:8888/phpmyadmin/
+user: apoioaopaci_usr
+pass: TqrrKBGAeWjt67El
+
+--
+
+Danone banco: 172.177.51.189:8888/phpmyadmin
+usuário: programacone
+senha: 1Tg1AW8VyAj0A5UM
+
+--
+
+QnapCloud
+humberto@rojopublicidade.com
+ Rojonas20
+
+--
+
+Acesso FTP danone:
+ 
+172.177.51.189
+user: campos
+senha: 00peOQtK2pK4JWrI
+
+--
+
+Acesso BD MetaDoctors prod:
+ 
+https://metadoctors.com.br:8888/phpmyadmin/
+metadoctors_
+Dclwy3dUn9xpzH0T
+
+Credenciais para bd dev MetaDoctors:
+ 
+https://dev.metadoctors.com.br:8888/phpmyadmin/index.php
+define( 'DB_USER', 'dev_metadoct' );
+define( 'DB_PASSWORD', 'APl3T8V7o8sse7V2' );
+
+Portal Premmiar
+
+Portal: https://portal.vertem.com/  
+Usuário: guilhermetavares@digitalsolvers.com
+Senha: @Hackgui1cf
+
+--
+
+Acesso BD MetaDoctors prod:
+ 
+https://metadoctors.com.br:8888/phpmyadmin/
+metadoctors_
+Dclwy3dUn9xpzH0T
+
+--
+
+Senha servidor, ibd: QAOM,J;kx51S
+login:  stagebr
+ 
+https://cpanel.ibdmirrorbr.ferringcloud1a.com/
+
+--
+
+PuTTY SBC Acesso
+ 
+Host: 172.177.51.189
+user: solvers
+senha: Dsolvers@2025!
+
+--
+
+SBC Dash
+
+login: sbcdash
+
+senha: dsolversA$sbc2024
+
+--
+
+https://rojocomunicacao.com.br/sites/blau/app.pharmaexperience/app/
+PHARMA EXPERIENCE EDUCAÇÃO FARMACÊUTICA CONTINUADA
+/public_html/sites/blau/app.pharmaexperience/app  
+ 
+ftp.rojocomunicacao.com.br
+ 
+homologacao@rojocomunicacao.com.br
+I4+nhQ^40{!u
+ 
+Cpanel: https://br886.hostgator.com.br:2083/
+ 
+user: saud3744
+ 
+senha: N757M;!fxyc2
+
+--
+
+Acesso ao Banco (Evento Adium,)
+ 
+ 
+Link: https://adiumsaude.com.br:8888/phpmyadmin/index.php
+Banco: chekin_evento
+user: chekin_even_usr
+senha: Mu5Mt9hslXLQFcIq
+
+--
+
+Putty Pharmaexperience:
+ 
+solvers@172.172.222.220
+Dsolvers@2025!
+
+--
+
+Fastpanel: https://pharmaexperience.com.br:8888/authentication
+ 
+fastuser
+71yDjarbs6m8xQo7
+ 
+DB_NAME: pharma_experience
+USER: pharma_exp
+PASS: u1jYLW8/1<J9
+
+--
+
+Acesso ao banco WebEvent pelo DBeaver:
+ 
+#Host
+db.webevent.com.br
+ 
+#Usuario
+guilherme.campos
+
+# Senha
+1y9NZ6)<Sz23:G/?Q[3>
+
+--
+
+https://espaco.adiumsaude.com.br/ 
+espaco.adiumsaude.com.br
+ 
+login: adium
+ 
+senha: ur885HtHblXhr51S
+
+define( 'DB_NAME', 'espaco_adium' );
+ 
+/** Database username */
+define( 'DB_USER', 'espaco_adium' );
+ 
+/** Database password */
+define( 'DB_PASSWORD', 'g6HAHfYRXVhVZ21Q' );
+ 
+https://adiumsaude.com.br:8888/phpmyadmin/index.php
+
+--
+
+Segue os acessos, salvem ai. 
+Fastpanel
+host: https://rojocomunicacao.com.br:8888/
+User: rojo_homologacao
+Senha: x6YyPv9fNGKwycxi
+Este user e senha é o mesmo para acesso SSH
+ 
+-------------------------------------------------------------
+FTP
+host: 20.97.204.227
+user: rojocomunica
+senha: e9M5SICO8FoBAOkw
+ 
+-------------------------------------------------------------
+ 
+Banco rojocomunicacao:
+ 
+Host: localhost
+Dbname: rojocomunicacao
+Login: rojocomunic_usr
+Senha: e9M5SICO8FoBAOkw
+
+--
+
+FTP
+Host: 20.110.89.224
+ 
+User: data2pharma_
+User: digitalsolve
+User: pharmatechco
+User: rojo
+ 
+Senha: e9M5SICO8FoBAOkw
